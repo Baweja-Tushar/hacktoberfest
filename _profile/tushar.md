@@ -22,7 +22,7 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
+linkedin: www.linkedin.com/in/tushar-baweja
 instagram: <Your Instagram profile>
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
