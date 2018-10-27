@@ -14,7 +14,7 @@ email: tushbaweja@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
-google: <Your Google+ profile>
+google: https://plus.google.com/u/0/?tab=mX
 gitlab: <Your GitLab profile>
 medium: <Your Medium profile>
 github: https://github.com/BawejaTushar 
